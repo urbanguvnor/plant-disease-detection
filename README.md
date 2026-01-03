@@ -56,4 +56,4 @@ plant-disease-detection/
 The complete research paper is available as a separate PDF submission.
 
 ## Contact
-- **Email:** osemumike2006@gmail.com
+- **Email:** iamose@aol.com
