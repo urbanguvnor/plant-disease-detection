@@ -14,11 +14,12 @@ A deep learning system for automated plant disease detection using ResNet-50 wit
 
 | S/N | Name | Matric No. | Email | Role |
 |-----|------|------------|-------|------|
-| 1 | Osemudiame Okoeguale | - | iamose@aol.com | Team Lead & Implementation |
-| 2 | Ezenwoko Kamsi Enyinnaya | - | Kamsiezenwoko@gmail.com | Model Training & Optimization |
-| 3 | Fabiawari Ryan Douglas | - | fabiadouglasm75@aol.com | Evaluation & Analysis |
-| 4 | Odighizuwa Steven | - | odighizuwa2.9@gmail.com | Literature Review |
-| 5 | Ikechukwu Emmanuel Okechukwu | - | emma.ik2na@gmail.com | Documentation & Reporting |
+| 1 | Osemudiame Okoeguale | 2022/12013 | iamose@aol.com | Team Lead & Implementation |
+| 2 | Ezenwoko Kamsi Enyinnaya | 2022/11558 | Kamsiezenwoko@gmail.com | Model Training & Optimization |
+| 3 | Fabiawari Ryan Douglas | 2022/11782 | fabiadouglasm75@aol.com | Evaluation & Analysis |
+| 4 | Odighizuwa Steven | 2022/11641 | odighizuwa2.9@gmail.com | Literature Review |
+| 5 | Ikechukwu Emmanuel Okechukwu | 2023/12807 | emma.ik2na@gmail.com | Documentation & Reporting |
+| 6 | Emmanuel Destiny Awereka | 2022/11310 | Awesomereka@gmail.com | Documentation & Reporting |
 
 ---
 
@@ -353,5 +354,6 @@ Bells University of Technology
 Ota, Ogun State, Nigeria
 
 ---
+
 
 
