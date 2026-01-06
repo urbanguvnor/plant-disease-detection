@@ -1,4 +1,4 @@
-# 🌿 Plant Disease Detection Using Deep Learning Group 7
+# Plant Disease Detection Using Deep Learning Group 7
 
 A deep learning system for automated plant disease detection using ResNet-50 with transfer learning, achieving **99.85% test accuracy** on 29 plant disease categories.
 
@@ -354,6 +354,7 @@ Bells University of Technology
 Ota, Ogun State, Nigeria
 
 ---
+
 
 
 
